@@ -1,0 +1,8 @@
+bin\Debug\Library Pro.exe
+bin\Debug\Library Pro.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Library_Pro.Form1.resources
+obj\Debug\Library_Pro.Properties.Resources.resources
+obj\Debug\Library Pro.csproj.GenerateResource.Cache
+obj\Debug\Library Pro.exe
+obj\Debug\Library Pro.pdb
